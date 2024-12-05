@@ -124,3 +124,5 @@
         <li>All deliveries and orders are recorded in the cash register.</li>
       </ul>
     </ol>
+    <h3>Entity Relationship Diagram</h3>
+    <img alt="ERD" src="./restaurant.png"/>
