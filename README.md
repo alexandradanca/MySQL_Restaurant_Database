@@ -1,5 +1,5 @@
 <h1 align="center">
-      MySQL_Restaurant_Database
+     🍜 MySQL_Restaurant_Database
       <br />
       <hr />
       Restaurant Reservations, Deliveries, and Orders Database
@@ -11,7 +11,7 @@
         The company manages information about reservations, deliveries, and
         orders for a restaurant, all of which contribute to generating profit.
       </p>
-      <li><h4>Reservations:</h4></li>
+      <li><h4>☎️ Reservations:</h4></li>
       <ul>
         <li>
           Reservation ID (IdReservation): Each reservation has a unique ID.
@@ -45,7 +45,7 @@
           </ul>
         </ul>
       </ul>
-      <li><h4>Clients:</h4></li>
+      <li><h4>👦 Clients:</h4></li>
       <ul>
         <li>Attributes:</li>
         <ul>
@@ -56,7 +56,7 @@
         </ul>
         <li>A client can make multiple reservations and multiple orders.</li>
       </ul>
-      <li><h4>Orders:</h4></li>
+      <li><h4>📦 Orders:</h4></li>
       <ul>
         <li>Order ID (IdOrder): Each order has a unique ID.</li>
         <li>Attributes:</li>
@@ -67,7 +67,7 @@
           <li>Client ID of the customer who placed the order.</li>
         </ul>
       </ul>
-      <li><h4>Products:</h4></li>
+      <li><h4>🍅 Products:</h4></li>
       <ul>
         <li>Attributes:</li>
         <ul>
@@ -78,7 +78,7 @@
           <li>Delivery ID (IdDelivery), if the order is a takeaway.</li>
         </ul>
       </ul>
-      <li><h4>Menus:</h4></li>
+      <li><h4>🍴 Menus:</h4></li>
       <ul>
         <li>
           Each menu has a unique name (e.g., "Fresh Tuna Salad", "Meatball
@@ -88,7 +88,7 @@
           A menu consists of multiple products (e.g., Italian, Greek, Chinese).
         </li>
       </ul>
-      <li><h4>Deliveries:</h4></li>
+      <li><h4>🔔 Deliveries:</h4></li>
       <ul>
         <li>Delivery ID (IdDelivery): Each delivery has a unique ID.</li>
         <li>Attributes:</li>
@@ -98,7 +98,7 @@
         </ul>
         <li>A delivery is based on an order.</li>
       </ul>
-      <li><h4>Employees:</h4></li>
+      <li><h4> :bowtie: Employees:</h4></li>
       <ul>
         <li>Attributes:</li>
         <ul>
@@ -113,7 +113,7 @@
           <li>Perform deliveries.</li>
         </ul>
       </ul>
-      <li><h4>Cashier Transactions:</h4></li>
+      <li><h4> :moneybag: Cashier Transactions:</h4></li>
       <ul>
         <li>Attributes:</li>
         <ul>
