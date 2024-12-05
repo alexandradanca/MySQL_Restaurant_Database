@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS `table_reservation` (
   `date` date NOT NULL,
   `time` time NOT NULL,
   `employeeID` numeric NOT NULL,
-  `cunstomerID` numeric NOT NULL
+  `customerID` numeric NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS `feedback` (
