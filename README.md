@@ -1,5 +1,5 @@
 <h1 align="center">
-    🍜 MySQL_Restaurant_Database
+    🍜 Restaurant Database
     <br />
     <hr />
     Restaurant Reservations, Deliveries, and Orders Database
